@@ -9,15 +9,7 @@ certifi==2019.3.9
 cffi==1.14.0
 chardet==3.0.4
 Click==7.0
-cloud-init==20.1
-colorama==0.4.3
-command-not-found==0.3
-configobj==5.0.6
-constantly==15.1.0
-cryptography==2.8
 DateTime==4.3
-dbus-python==1.2.16
-distro==1.4.0
 dnspython==1.16.0
 dominate==2.3.5
 email-validator==1.1.0
@@ -35,9 +27,6 @@ Flask-SQLAlchemy==2.3.2
 Flask-Uploads==0.2.1
 Flask-WTF==0.14.2
 gunicorn==19.9.0
-httplib2==0.14.0
-hyperlink==19.0.0
-idna==2.8
 isort==4.3.21
 itsdangerous==1.1.0
 Jinja2==2.10.1
