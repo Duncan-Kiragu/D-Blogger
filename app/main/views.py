@@ -8,6 +8,7 @@ from .. import db,photos
 import requests
 import json
 
+
 @main.route('/')
 def index():
     random = requests.get('http://quotes.stormconsultancy.co.uk/random.json').json()
