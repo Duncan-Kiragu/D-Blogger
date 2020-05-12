@@ -1,16 +1,14 @@
 # Blogger Inc. Application
 
-## Author
-[Duncan Kiragu](https://github.com/Duncan-Kiragu)
+## Author:  [Duncan Kiragu](https://github.com/Duncan-Kiragu)
 
 ## Description
 Blog-It is a flask web application meant for users to post and view various blog contents
-```
-
 Registered users can create and share their opinions while other users can read and comment on the blogs.
 
 ### Project Setup instructions
 Use the following commands to use this project.
+```
 - git clone ``
 - install `python 3.8`
 - Install [Postgresql](https://www.postgresql.org/download/)
@@ -23,7 +21,7 @@ Use the following commands to use this project.
 - `code -r .`  //For those using Visual Studio editor.
 - Run `./start.sh`
 - Access the application on this localhost address `http://127.0.0.1:5000`
-
+```
 ### Technologies used
 The different technologies that were used to develop this program include:
 ```
@@ -41,10 +39,15 @@ Here is a link to the live site
 
 
 ### Contact Me
-If you have any suggestions, additions or modifications on this project you can reach me via my email: mathenge089@gmail.com
+If you have any suggestions, additions or modifications on this project you can reach me via my email: **mathenge089@gmail.com**
 
 ### License  & Copyright information
 
-Copyright (c) 2020 **Duncan Kiragu**
+Copyright 2020 Duncan-Kiragu
 
-[MIT License](./LICENSE)
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
