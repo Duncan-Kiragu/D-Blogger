@@ -3,13 +3,14 @@
 ## Author:  [Duncan Kiragu](https://github.com/Duncan-Kiragu)
 
 ## Description
-Blog-It is a flask web application meant for users to post and view various blog contents
+Blogger Inc. is a flask web application meant for users to post and view various blog contents
+
 Registered users can create and share their opinions while other users can read and comment on the blogs.
 
 ### Project Setup instructions
 Use the following commands to use this project.
 ```
-- git clone ``
+- git clone `https://github.com/Duncan-Kiragu/D-Blogger.git`
 - install `python 3.8`
 - Install [Postgresql](https://www.postgresql.org/download/)
 - cd DBlogger
@@ -35,7 +36,7 @@ The different technologies that were used to develop this application include:
 ```
 
 ### Link to live site
-Here is a link to the live site 
+Here is a link to the live site ''
 
 
 ### Contact Me
