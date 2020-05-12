@@ -7,6 +7,16 @@ Blogger Inc. is a flask web application meant for users to post and view various
 
 Registered users can create and share their opinions while other users can read and comment on the blogs.
 
+### User stories
+```
+- A user can view the blog posts on the site.
+- A user can comment on blog posts.
+- A user can view the most recent posts.
+- A user can get an email alert when a new post is made by joining a subscription.
+- A writer can delete comments that they find insulting or degrading.
+- A writer can sign in to the blog.
+- A writer can update or delete blogs I have created.
+```
 ### Project Setup instructions
 Use the following commands to use this project.
 ```
