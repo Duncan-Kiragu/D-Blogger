@@ -90,6 +90,7 @@ def travel():
 
     return render_template('travel.html',blogs = blogs)
 
+
 @main.route('/blogs/fitness')
 def fitness():
     blogs = Blog.get_blogs('Fitness-Blog')
