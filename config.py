@@ -6,11 +6,12 @@ class Config:
 
     UPLOADED_PHOTOS_DEST ='app/static/photos'
 
+
 class TestConfig(Config):
-    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://antavio:blogs@localhost/blogs_test'
+    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://antavio:1955@localhost/blogs_test'
 
 class DevConfig(Config):
-    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://antavio:blogs@localhost/blogs'
+    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://antavio:1955@localhost/blogs'
     DEBUG = True
 
 class ProdConfig(Config):

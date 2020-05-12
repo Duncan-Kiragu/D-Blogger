@@ -111,16 +111,16 @@
   margin: 10px;
 }
 .display h4{
-  font-family: 'Gugi', cursive;
+  font-family: 'Balsamiq Sans', cursive;
 }
 .display h5{
-  font-family: 'Righteous', cursive;
+  font-family: 'Balsamiq Sans', cursive;
 }
 .btn{
   border-radius: 25px;
 }
 .jumbotron h2{
-  font-family: 'Special Elite', cursive;
+  font-family: 'Balsamiq Sans', cursive;
   font-size: 50px;
 }
 .jumbotron {
@@ -142,9 +142,9 @@
 margin-top: 20px;
 }
 .subscribe h4,h2{
-  font-family: 'Righteous', cursive;
+  font-family: 'Balsamiq Sans', cursive;
 }
 .quotes h4,p{
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Balsamiq Sans', sans-serif;
   font-size: 23px;
 }
